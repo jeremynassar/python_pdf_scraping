@@ -1,1 +1,2 @@
 # python_pdf_scraping
+Small project where I disected a PDF file called the "The Disinformation Dozen". The Disinformation Dozen produce over 65% of anti vaccine misinformation content circulating social media platforms. I thought it would be interesting to disect the PDF and find what words are most used compared to what words I thought would show up the most in the context of anti vaccine conversations.
